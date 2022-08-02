@@ -9,6 +9,8 @@ To install project locally one must follow the scripts in the main `package.json
 ## Screenshot
 Here is a screen shot of the application and the console log showcasing the stored data:
 
+<img width="1599" alt="JATE-text-editor" src="https://user-images.githubusercontent.com/81279037/182294008-c5e01af0-e522-4d12-ba68-3a60394ddf89.png">
+
 
 ## Usage
 Once the application is running a user can use it in the browser or install it and work offline. Simply type info into the application and when you click away, it stores it into the indexedDB. So when one enters the application again their info is stored and they can reference it again.
